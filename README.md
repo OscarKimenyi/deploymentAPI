@@ -9,12 +9,11 @@ This project involves developing and deploying a simple API for the CS 421 cours
 The API is deployed on an AWS EC2 instance and is accessible publicly.
 
 ## Table of Contents
-- [API Endpoints]
-- [Setup Instructions]
-- [Prerequisites]
-- [Endpoints]
-- [Contributing]
-- [License]
+- [API Endpoints](#api-endpoints)
+- [Setup Instructions](#setup-instructions)
+- [Prerequisites](#prerequisties)
+- [Endpoints](#endpoints)
+- [License](#license)
 
 ---
 
@@ -73,3 +72,6 @@ To run the application locally:
 node index.js
 ```
 The API will be accessible at http://localhost:3000.
+
+### License
+This project is licensed under the MIT License - see the LICENSE file for details.   

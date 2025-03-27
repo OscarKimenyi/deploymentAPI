@@ -8,6 +8,16 @@ This project involves developing and deploying a simple API for the CS 421 cours
 
 The API is deployed on an AWS EC2 instance and is accessible publicly.
 
+## Table of Contents
+- [API Endpoints]
+- [Setup Instructions]
+- [Prerequisites]
+- [Endpoints]
+- [Contributing]
+- [License]
+
+---
+
 ## API Endpoints
 
 ### 1. `/students`
